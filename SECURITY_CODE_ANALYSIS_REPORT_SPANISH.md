@@ -69,6 +69,11 @@ Se requiere una remediación inmediata antes de cualquier implementación en pro
 
 **Ubicación:** `README.md:10-15`
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
 **Código Vulnerable:**
 
 ```markdown
